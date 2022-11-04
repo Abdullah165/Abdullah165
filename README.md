@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abdullah165
+- 👋 Hi, I’m Abdullah
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning Unity engine 
 - 📫 How to reach me abdullahabdelati@gmail.com
