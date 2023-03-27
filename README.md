@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1> 
 <h3 align="center">Game Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullah165" alt="abdullah165" /></a> </p>
-
+👀 I’m interested in game development
+🌱 I'm currently developing my own games in the Unity engine
 - 📫 How to reach me **abdullahabdelati@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abdullah1141085" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdullah1141085" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abdullah-abdelaty-a4a1b21a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-abdelaty-a4a1b21a2/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/abdullah abdelaty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abdullah abdelaty" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCrnKMmlzEjayfqVLZij9tAA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Abdullah Abdelaty" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
