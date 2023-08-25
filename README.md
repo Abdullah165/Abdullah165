@@ -12,7 +12,7 @@
   
 [![Twitter](https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/abdullah1141085)   
   
-[![Youtube](https://img.shields.io/badge/Youtube-0077B5?style=for-the-badge&logo=Youtube&logoColor=white&labelColor=red&color=red)](https://www.youtube.com/channel/UCrnKMmlzEjayfqVLZij9tAA)  
+[![Youtube](https://img.shields.io/badge/Youtube-0077B?style=for-the-badge&logo=Youtube&logoColor=white&labelColor=red&color=red)](https://www.youtube.com/channel/UCrnKMmlzEjayfqVLZij9tAA)  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
