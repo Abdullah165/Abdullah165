@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%F0%9F%91%8B)](https://git.io/typing-svg)
 <h1 align="center">I'm Abdullah</h1> 
 <h3 align="center">Unity Game Developer</h3>
-⚡A quick introduction
+<p>⚡A quick introduction</p>
 <p>-👀 I’m interested in game development</p>
--🌱 I'm currently developing my own games in the Unity engine
+<p>-🌱 I'm currently developing my own games in the Unity engine</p>
 -📫 How to reach me **abdullahabdelati@gmail.com**
   
 <h3 align="left">FOLLOW ME ON:</h3>
