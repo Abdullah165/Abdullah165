@@ -7,8 +7,11 @@
 
 <h3 align="left">FOLLOW ME ON:</h3>
 <p align="left">
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-abdelaty-a4a1b21a2/)  
-[![Twitter](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://twitter.com/abdullah1141085)  
+  
+[![Twitter](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://twitter.com/abdullah1141085)   
+  
 [![Youtube](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.youtube.com/channel/UCrnKMmlzEjayfqVLZij9tAA)  
 </p>
 
