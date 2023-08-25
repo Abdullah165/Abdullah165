@@ -4,7 +4,6 @@
 -👀 I’m interested in game development
 -🌱 I'm currently developing my own games in the Unity engine
 - 📫 How to reach me **abdullahabdelati@gmail.com**
-
 <h3 align="left">FOLLOW ME ON:</h3>
 <p align="left">
   
