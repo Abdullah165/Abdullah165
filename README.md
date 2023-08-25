@@ -7,11 +7,9 @@
 
 <h3 align="left">FOLLOW ME ON:</h3>
 <p align="left">
-<a href="https://twitter.com/abdullah1141085" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdullah1141085" height="30" width="40" /></a>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-abdelaty-a4a1b21a2/)  
-
-<a href="https://www.youtube.com/channel/UCrnKMmlzEjayfqVLZij9tAA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Abdullah Abdelaty" height="30" width="40" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://twitter.com/abdullah1141085)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.youtube.com/channel/UCrnKMmlzEjayfqVLZij9tAA)  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
