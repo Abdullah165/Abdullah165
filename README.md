@@ -3,9 +3,9 @@
 <h3 align="center">Unity Game Developer</h3>
 
 <h3><p><b>⚡A quick introduction</b></p></h3>
-<p>-👀 I’m interested in game development</p>
-<p>-🌱 I'm currently developing my own games in the Unity engine</p>
-<p>-📫 How to reach me **abdullahabdelati@gmail.com**</p>
+<p>  -👀 I’m interested in game development</p>
+<p>  -🌱 I'm currently developing my own games in the Unity engine</p>
+<p>  -📫 How to reach me **abdullahabdelati@gmail.com**</p>
 <h3 align="left">FOLLOW ME ON:</h3>
 <p align="left">
   
