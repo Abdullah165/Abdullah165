@@ -4,8 +4,7 @@
 <p>⚡A quick introduction</p>
 <p>-👀 I’m interested in game development</p>
 <p>-🌱 I'm currently developing my own games in the Unity engine</p>
--📫 How to reach me **abdullahabdelati@gmail.com**
-  
+<p>-📫 How to reach me **abdullahabdelati@gmail.com**</p>
 <h3 align="left">FOLLOW ME ON:</h3>
 <p align="left">
   
