@@ -1,3 +1,6 @@
+![New Project](https://github.com/Abdullah165/Fruit-Ninja/assets/63372032/cf0bcd5a-9e24-4960-8335-f26f67b55dde)
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%F0%9F%91%8B)](https://git.io/typing-svg)
 <h1 align="center">I'm Abdullah</h1> 
 <h3 align="center">Unity Game Developer</h3>
