@@ -1,6 +1,5 @@
+![New Project](https://github.com/Abdullah165/Fruit-Ninja/assets/63372032/cf0bcd5a-9e24-4960-8335-f26f67b55dde)
 
-
-![asd](https://github.com/Abdullah165/Abdullah165/assets/63372032/8824a123-bdae-47c1-94b4-9a606bde65eb)
 
 
 
