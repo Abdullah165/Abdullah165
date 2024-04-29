@@ -10,7 +10,7 @@
 <h3><p><b>⚡A quick introduction</b></p></h3>
 <p>👀 I’m interested in game development</p>
 <p>🌱 I'm currently developing my own games using Unity Engine</p>
-<p>📫 How to reach me **abdullahabdelati@gmail.com**</p>
+
 
 <h3 align="left">Links:</h3>
 <p align="left">
