@@ -1,4 +1,4 @@
-![New Project](https://github.com/Abdullah165/Velocity-Surge/assets/63372032/f7d3655c-61b4-431a-8fbe-4575b27c110a)
+![New Project](https://github.com/Abdullah165/Velocity-Surge/assets/63372032/3b1371a6-8c44-47a9-b796-0a960b3a53a0)
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%F0%9F%91%8B)](https://git.io/typing-svg)
