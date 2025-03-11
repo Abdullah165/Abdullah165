@@ -6,9 +6,7 @@
 <h3 align="center">Unity Game Developer</h3>
 
 <h3><p><b>⚡A quick introduction</b></p></h3>
-<p>👀 I’m interested in game development</p>
-<p>🌱 I'm currently developing my own games using Unity Engine</p>
-
+<p>👀 I’m in LOVE with game development</p>
 
 <h3 align="left">Links:</h3>
 <p align="left">
