@@ -6,7 +6,7 @@
 <h3 align="center">Unity Game Developer</h3>
 
 <h3><p><b>⚡A quick introduction</b></p></h3>
-<p>👀 I’m in LOVE with game development</p>
+<p>👀 I’m in LOVE with game development. And in my free time, I love making games with the Raylib and SDL libraries.</p>
 
 <h3 align="left">Links:</h3>
 <p align="left">
