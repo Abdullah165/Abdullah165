@@ -8,8 +8,8 @@
 <h3><p><b>⚡A quick introduction</b></p></h3>
 <p>
   👀 I’m in LOVE with game development. And in my free time, I love making games with the
-  <a href="https://www.raylib.com" target="_blank">Raylib</a> and 
-  <a href="https://libsdl.org" target="_blank">SDL</a> libraries.
+  <a href="https://www.raylib.com" target="_blank">Raylib</a> library
+  <!--<a href="https://libsdl.org" target="_blank">SDL</a> libraries.-->
 </p>
 
 <h3 align="left">Links:</h3>
