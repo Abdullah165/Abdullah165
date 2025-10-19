@@ -7,7 +7,7 @@
 
 <h3><p><b>⚡A quick introduction</b></p></h3>
 <p>
-  👀 I’m in LOVE with game dev, and I love touching the ground with making games in C++! with
+  👀 I’m in LOVE with game dev, and in my free time I love touching the ground with making games in C++ with
   <a href="https://www.raylib.com" target="_blank">Raylib</a> library
   <!--<a href="https://libsdl.org" target="_blank">SDL</a> libraries.-->
 </p>
