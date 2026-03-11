@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <h1 align="center">I'm Abdullah</h1> 
-<h3 align="center">Unity Game Developer</h3>
+<h3 align="center">Unity Gameplay Programmer</h3>
 
 <h3><p><b>⚡A quick introduction</b></p></h3>
 <p>
