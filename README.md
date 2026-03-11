@@ -15,10 +15,10 @@
 <h3 align="left">Links:</h3>
 <p align="left">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin)](https://linkedin.com/in/abdullah-abdelaty-a4a1b21a2/)
-[![Medium](https://img.shields.io/badge/Medium-000?style=social&logo=medium)](https://medium.com/@abdullahabdelati_46671)
-[![Youtube (English)](https://img.shields.io/badge/Youtube-0077B5?style=social&logo=Youtube)](https://www.youtube.com/channel/UCrnKMmlzEjayfqVLZij9tAA)
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=social&logo=ko-fi)](https://abdullah165.github.io/Portfolio/)
+<kbd>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-abdelaty-a4a1b21a2/)</kbd>
+<kbd>[![Medium](https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@abdullahabdelati_46671)</kbd>
+<kbd>[![Youtube (English)](https://img.shields.io/badge/Youtube-0077B5?style=for-the-badge&logo=Youtube&logoColor=white&labelColor=red&color=red)](https://www.youtube.com/channel/UCrnKMmlzEjayfqVLZij9tAA)</kbd>
+<kbd>[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://abdullah165.github.io/Portfolio/)</kbd>
 </p>
 
 
